@@ -13,7 +13,7 @@
 '''Reads files into dataframes
 Strips maximum, minimum, and average daily values included in the output
 Interprets the date-time column and sets it as data frame index
-‘outer’ merges the four dataframes into one dataframe on the dataframe index (timestamp)
+outer merges the four dataframes into one dataframe on the dataframe index (timestamp)
 Subtracts an hour because dataloggers are on DLS time 
 '''
 ##############################################################
