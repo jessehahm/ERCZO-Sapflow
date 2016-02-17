@@ -1,0 +1,30 @@
+Location,Slope,Tree ID,Species,Azimuth,Height (m),SVP,Display,Address,Cable (m),In date,Out date, New SVP,Address,Cable (m),CurrentSVP,
+Rivendell,South,71,PSME,North,,84005,no,op,6.4,20150617,,,,,SVP84005,SVP
+Rivendell,South,71,PSME,South,,87014,yes,AB,6.9,20150617,,,,,SVP87014,SVP
+Rivendell,South,299,QUCH,South,,10854,no,MN,9.2,20150617,,,,,SVP10854,SVP
+Rivendell,South,299,QUCH,North,,87028,yes,cd,9.6,20150617,,,,,SVP87028,SVP
+Rivendell,South,70,ARME,North,,87025,yes,WX,7.1,20150617,,,,,SVP87025,SVP
+Rivendell,South,70,ARME,South,,86008,no,EF,24,20150617,,,,,SVP86008,SVP
+Rivendell,South,300,NODE,North,,6B013,no,CD,5,20150617,,,,,SVP6B013,SVP
+Rivendell,South,300,NODE,South,,10937,yes,ij,5,20150617,,,,,SVP10937,SVP
+Rivendell,North,297,ARME,North,,87023,yes,ST,5,20150617,20150708,10936,AB,5,SVP10936,SVP
+Rivendell,North,297,ARME,South,,11089,no,IJ,5,20150617,20150708,11074,qr,5,SVP11074,SVP
+Rivendell,North,296,QUCH,South,,87027,yes,ab,5,20150617,,,,,SVP87027,SVP
+Rivendell,North,296,QUCH,North,,87022,no,QR,4.7,20150617,,,,,SVP87022,SVP
+Rivendell,North,"37, 620",NODE,South,,87024,yes,UV,5,20150617,20150708,10212,UV,5,SVP10212,SVP
+Rivendell,North,"37, 620",NODE,North,,87020,no,MN,5,20150617,20150708,11077,WX,5,SVP11077,SVP
+Rivendell,North,41 (Ursula),PSME,North,,11051,no,ef,5,20150617,20150708,10926,mn,5,SVP10926,SVP
+Rivendell,North,41 (Ursula),PSME,Southwest,,10612,no,YZ,5,20150617,20150708,10945,yz,5,SVP10945,SVP
+Rivendell,North,41 (Ursula),PSME,South,,10927,yes,OP,5,20150617,,,,,SVP10927,SVP
+Sagehorn,North,208,QUGA,North,,11091,no,ij,5,20150708,,,,,SVP11091,SVP
+Sagehorn,North,208,QUGA,South,,11057,yes,EF,5,20150708,,,,,SVP11057,SVP
+Sagehorn,North,No tag,QUGA,North,,10978,yes,WX,5,20150708,,,,,SVP10978,SVP
+Sagehorn,North,No tag,QUGA,South,,10851,no,IJ,5,20150708,,,,,SVP10851,SVP
+Sagehorn,North,210,ARME,North,,10814,yes,KL,5,20150708,,,,,SVP10814,SVP
+Sagehorn,North,210,ARME,South,,10239,no,CD,5,20150708,,,,,SVP10239,SVP
+Sagehorn,South,206,QUGA,North,,10724,no,AB,5,20150708,,,,,SVP10724,SVP
+Sagehorn,South,206,QUGA,South,,11056,yes,gh,5,20150708,,,,,SVP11056,SVP
+Sagehorn,South,205,QUGA,North,,11066,yes,ST,5,20150708,,,,,SVP11066,SVP
+Sagehorn,South,205,QUGA,South,,10733,no,cd,5,20150708,,,,,SVP10733,SVP
+Sagehorn,South,207,QUGA,North,,11090,no,QR,5,20150708,,,,,SVP11090,SVP
+Sagehorn,South,207,QUGA,South,,11085,yes,CD,5,20150708,,,,,SVP11085,SVP
